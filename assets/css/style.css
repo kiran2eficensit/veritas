@@ -385,6 +385,9 @@ img {
   display: flex;
   align-items: center;
 }
+.about-right {
+  padding-left: 40px;
+}
 .about-right h3 {
   font-size: 40px;
   line-height: 50px;
@@ -637,10 +640,11 @@ footer {
   padding: 0;
   list-style: none;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
 }
 .footer-right h4 {
   text-align: center;
+  padding-left: 32px;
 }
 .footer-right ul li a {
   width: 40px;
