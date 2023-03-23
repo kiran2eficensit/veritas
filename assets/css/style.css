@@ -556,7 +556,11 @@ img {
   padding: 100px 0;
   background: #d1ebff;
 }
-.contact-left form input {
+.contact-left .alert{
+  font-size: 13px;
+  width: 93%;
+}
+.contact-left input {
   width: 45%;
   background: #fff;
   border: none;
@@ -566,7 +570,7 @@ img {
   margin-right: 10px;
   font-size: 14px;
 }
-.contact-left form textarea {
+.contact-left textarea {
   width: 93%;
   background: #fff;
   border: none;
@@ -576,7 +580,7 @@ img {
   font-size: 14px;
   min-height: 110px;
 }
-.contact-left form button {
+.contact-left button {
   width: 93%;
   background: #0c2db2;
   border: none;
